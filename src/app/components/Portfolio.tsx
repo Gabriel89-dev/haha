@@ -97,7 +97,7 @@ const Portfolio = () => {
                             </div>
                         </div>
 
-                        <div className="flex justify-center items-center">
+                        <div className="flex py-5 justify-center items-center">
                             <Image src={project.src} alt={project.title} className="h-[400px] w-auto object-cover"/>
                         </div>
 
